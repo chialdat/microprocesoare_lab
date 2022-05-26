@@ -1,4 +1,0 @@
-Să se rezolve in limbaj de asamblare DLX:
-3. Se citeste un număr n natural (>0) de la tastatură (se va face testul de pozitivitate). Să se
-calculeze produsul cifrelor pare si suma cifrelor impare aferente numărului natural n.
-Determinati IR obtinută cu si fără mecanism de forwarding.
